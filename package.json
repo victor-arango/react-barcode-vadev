@@ -1,6 +1,6 @@
 {
-  "name": "react-barcode-vadev",
-  "version": "0.2.8",
+  "name": "react-static-barcode-generator",
+  "version": "1.0.0",
   "description": "",
   "main": "dist/index.es.js",
   "types": "types/index.d.ts",
